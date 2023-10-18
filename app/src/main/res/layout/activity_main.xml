@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/alfa_slab_one"
+        android:fontFamily="@font/aclonica"
         android:text="My first Git Project"
         android:textColor="#000000"
         android:textSize="25sp"
